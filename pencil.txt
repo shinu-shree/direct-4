@@ -1,0 +1,4 @@
+GIT Architecture Diagram
+. (Source Area)
+.. (Stage)
+.git (Local repository)
